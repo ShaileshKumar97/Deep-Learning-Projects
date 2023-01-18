@@ -6,7 +6,7 @@
 
 ## Intermediate
 
-
+- [ ] [Blindness Detection](https://github.com/ShaileshKumar97/Deep-Learning-Projects/tree/main/Blindness-Detection)
 
 ## Advanced
 
