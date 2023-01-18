@@ -2,7 +2,7 @@
 
 ## Basic
 
-
+- [ ] Digit Recognizer
 
 ## Intermediate
 
