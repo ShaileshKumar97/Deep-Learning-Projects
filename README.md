@@ -9,8 +9,8 @@
 ## Intermediate
 
 - [ ] Generative Adversarial Networks
-> - [ ] Anime Faces Generation with DCGAN
-> - [ ] Generating Arts using GANs
+> - [ ] [Anime Faces Generation with DCGAN](https://github.com/ShaileshKumar97/Deep-Learning-Projects/tree/main/Generative-Adversarial-Networks(GAN)/Anime-Faces-Generation-with-DCGAN)
+> - [ ] [Generating Arts using GANs](https://github.com/ShaileshKumar97/Deep-Learning-Projects/tree/main/Generative-Adversarial-Networks(GAN)/Generating-Arts-using-GANs)
 - [ ] [Blindness Detection](https://github.com/ShaileshKumar97/Deep-Learning-Projects/tree/main/Blindness-Detection)
 
 ## Advanced
