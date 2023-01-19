@@ -8,6 +8,9 @@
 
 ## Intermediate
 
+- [ ] Generative Adversarial Networks
+> - [ ] Anime Faces Generation with DCGAN
+> - [ ] Generating Arts using GANs
 - [ ] [Blindness Detection](https://github.com/ShaileshKumar97/Deep-Learning-Projects/tree/main/Blindness-Detection)
 
 ## Advanced
